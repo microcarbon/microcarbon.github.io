@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicrocarbon=self.webpackChunkmicrocarbon||[]).push([[3354],{2444:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/zh/blog/tags/docusaurus","allTagsPath":"/zh/blog/tags","count":4}')}}]);

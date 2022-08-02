@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicrocarbon=self.webpackChunkmicrocarbon||[]).push([[4306],{3769:c=>{c.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
